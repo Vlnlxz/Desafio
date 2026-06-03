@@ -1,5 +1,5 @@
 # Desafio
-## Vinicius:
+## Vinicius: ✅ ❌
 - LVL MAX
 - CDK
 - 30KK
