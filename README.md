@@ -1,5 +1,7 @@
 # Desafio
+
 ## Vinicius: ✅ ❌
+
 - LVL MAX ❌
 - CDK ❌
 - 30KK ❌
@@ -9,8 +11,11 @@
 - Raça V3 ❌
 - Fruta Mitica no INV ❌
 - Todos Itens SEA 1 ❌
-<br>
+
+---
+
 ## Fabricio: ✅ ❌
+
 - LVL MAX ❌
 - CDK ❌
 - 30KK ❌
