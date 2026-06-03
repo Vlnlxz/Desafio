@@ -1,6 +1,6 @@
 # Desafio
 ## Vinicius:
-LVL MAX 
-CDK
-30KK
-50K de frag
+1.LVL MAX 
+2.CDK
+3.30KK
+4.50K de frag
